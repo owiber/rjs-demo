@@ -13,3 +13,5 @@ results
 
 npm-debug.log
 node_modules
+dev/bower_components
+build/static/js/index.js
